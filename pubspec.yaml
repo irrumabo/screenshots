@@ -20,7 +20,7 @@ dependencies:
   intl: ">=0.15.0 <1.0.0"
   tool_mobile:
     git: https://github.com/irrumabo/tool_mobile.git
-    branch: master
+    ref: master
 #  tool_mobile:
 #    path: ../tool_mobile
 
